@@ -1,0 +1,39 @@
+Quartus Prime Archive log --	U:/ece385_lab8_take2/__lab7_usb.auto.qarlog
+
+Archive:	U:/ece385_lab8_take2/__lab7_usb.auto.qar
+Date:		Wed Nov 13 00:12:23 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+Color_Mapper.sv
+HexDriver.sv
+PLLJ_PLLSPE_INFO.txt
+U:/ece385_lab8_take2/db/a_dpfifo_l011.tdf
+U:/ece385_lab8_take2/db/a_fefifo_7cf.tdf
+U:/ece385_lab8_take2/db/altsyncram_6mc1.tdf
+U:/ece385_lab8_take2/db/altsyncram_ac71.tdf
+U:/ece385_lab8_take2/db/altsyncram_e8h1.tdf
+U:/ece385_lab8_take2/db/altsyncram_nio1.tdf
+U:/ece385_lab8_take2/db/cntr_1ob.tdf
+U:/ece385_lab8_take2/db/cntr_do7.tdf
+U:/ece385_lab8_take2/db/lab8.qpf
+U:/ece385_lab8_take2/db/mult_p5t.tdf
+U:/ece385_lab8_take2/db/scfifo_jr21.tdf
+VGA_controller.sv
+__lab7_usb.auto.qarlog
+ball.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+hpi_io_intf.sv
+lab7_usb.qsf
+lab8.sv
+lab8_assignment_defaults.qdf
+lab8_soc.qsys
+lab8_tmp_archive.qarlog
+nios_system.qsys
+vga_clk.ppf
+vga_clk.qip
+vga_clk.v
+	======= Total: 28 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

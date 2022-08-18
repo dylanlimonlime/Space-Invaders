@@ -1,0 +1,20 @@
+module color_data ( input,
+						  output [7:0] sprite_r,
+											sprite_g,
+											sprite_b
+							);
+
+
+							
+endmodule
+
+
+
+
+module sprite_draw ( input, );
+
+
+
+endmodule
+
+		

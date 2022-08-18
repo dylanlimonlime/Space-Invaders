@@ -1,0 +1,13 @@
+module  alien_control (input              is_cannon,            // Whether current pixel belongs to ball
+                                                              //   or background (computed in ball.sv)
+														is_laser,
+                       input        [1:0] choose_cannon,
+                       input        [2:0] choose_laser,
+                       input        [3:0] choose_enemy,
+                       input        [4:0] choose_letter,
+                       input        [2:0] choose_punct,
+                       input        [3:0] choose_number,
+
+                       input        [9:0] DrawX, DrawY,       // Current pixel coordinates
+                       output logic [7:0] VGA_R, VGA_G, VGA_B // VGA RGB output
+                     );

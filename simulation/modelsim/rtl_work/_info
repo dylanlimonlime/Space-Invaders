@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dU:/ece385_final/simulation/modelsim
+vfinal_project
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1573934331
+!i10b 1
+!s100 j;MabXJEU:7RF5K2Teif90
+IWMSbUcoN?NQXJ[`zm?9j`1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 final_project_sv_unit
+S1
+R0
+w1573628902
+8U:/ece385_final/final_project.sv
+FU:/ece385_final/final_project.sv
+L0 6
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1573934331.000000
+!s107 U:/ece385_final/final_project.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+U:/ece385_final|U:/ece385_final/final_project.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+U:/ece385_final
+Z8 tCvgOpt 0
+vlaser_cannon
+R1
+R2
+!i10b 1
+!s100 m;A9PJNe3YiB0ET381gMF3
+Im:n^Mjdo5dlOCIQK@9X4g0
+R3
+!s105 laser_cannon_sv_unit
+S1
+R0
+w1573629210
+8U:/ece385_final/laser_cannon.sv
+FU:/ece385_final/laser_cannon.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R5
+!s107 U:/ece385_final/laser_cannon.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+U:/ece385_final|U:/ece385_final/laser_cannon.sv|
+!i113 1
+R6
+R7
+R8
